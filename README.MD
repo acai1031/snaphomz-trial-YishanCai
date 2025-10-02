@@ -8,8 +8,6 @@
   python -m venv .venv && source .venv/bin/activate
   pip install -r requirements.txt
   ```
-- (Optional) Local model setup:
-  - llama.cpp / mistral inference notes here
 
 ## How to Run
 1. Open `notebooks/trial.ipynb` and run all cells.
@@ -20,10 +18,10 @@
     - numeric features: `beds`, `baths`
     - binary features: `open_concept`, `updated_kitchen`, `corner_lot`, 
        `fresh_paint`, `vaulted_ceilings`, `solar_panels`, `granite_counters`,
-       `near_good_schools', 'quiet_cul_de_sac`, `hoa_includes_pool`,
-       `ev_charger', 'two_car_garage', 'large_backyard`, `walk_to_park`,
-       `stainless_appliances', 'hardwood_floors`, `new_roof_2022`,
-       `tile_flooring', 'primary_suite', 'home_office`, 
+       `near_good_schools`, `quiet_cul_de_sac`, `hoa_includes_pool`,
+       `ev_charger`, `two_car_garage`, `large_backyard`, `walk_to_park`,
+       `stainless_appliances`, `hardwood_floors`, `new_roof_2022`,
+       `tile_flooring`, `primary_suite`, `home_office`, 
     - one-hot encoding features: `city_Frisco`, `city_Mountain View`, `city_Palo Alto`, 
         `city_Plano`, `city_San Jose`, `city_Santa Clara`, `city_Sunnyvale`, `state_TX`, 
         `list_year`, `list_month`, `list_quarter` 
