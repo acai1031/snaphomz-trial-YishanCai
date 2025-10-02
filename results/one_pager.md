@@ -14,10 +14,10 @@
 
 ## Visuals
 ### 1. Average Price per Sqft by City
-![Average Price per Sqft by City](results/avg_price_per_sqft_by_city.png)
+![Average Price per Sqft by City](avg_price_per_sqft_by_city.png)
 
 ### 2. Price per Sqft by Number of Bathrooms
-![Price per Sqft by Baths](results/price_per_sqft_by_baths.png)
+![Price per Sqft by Baths](price_per_sqft_by_baths.png)
 
 ---
 
