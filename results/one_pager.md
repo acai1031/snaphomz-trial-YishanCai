@@ -30,15 +30,15 @@
 
 ## Sample RAG Q&A Output
 - **Q:** Does 960 Cedar Ct have a two-car garage?
-  **A:** Yes, 960 Cedar Ct, Frisco, TX has two-car garage.
+- **A:** Yes, 960 Cedar Ct, Frisco, TX has two-car garage.
   Supporting evidence: quiet cul-de-sac, two-car garage, near good schools, vaulted ceilings, updated kitchen, HOA includes pool
 
 - **Q:** 960 Cedar Ct - is there a pool?
-  **A:** Yes, 960 Cedar Ct, Frisco, TX has pool.
+- **A:** Yes, 960 Cedar Ct, Frisco, TX has pool.
   Supporting evidence: quiet cul-de-sac, two-car garage, near good schools, vaulted ceilings, updated kitchen, HOA includes pool
 
 - **Q:** I'm interested in 960 Cedar Ct. Does it have good schools nearby?
-  **A:** Yes, 960 Cedar Ct, Frisco, TX has good schools.
+- **A:** Yes, 960 Cedar Ct, Frisco, TX has good schools.
   Supporting evidence: quiet cul-de-sac, two-car garage, near good schools, vaulted ceilings, updated kitchen, HOA includes pool
 
 ---
